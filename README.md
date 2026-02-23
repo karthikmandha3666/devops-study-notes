@@ -1,4 +1,5 @@
 Here are all the topics included in your notes:
+
 ---
 **Linux**
 - File system structure
@@ -13,8 +14,8 @@ Here are all the topics included in your notes:
 
 👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/linux_shell_git_study_notes.pdf)
 ---
----
 
+---
 **Shell Scripting**
 - Variables, if/else, loops (for, while)
 - Functions
@@ -22,8 +23,7 @@ Here are all the topics included in your notes:
 - Exit codes
 - Real deployment scripts
 
-👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/linux_shell_git_study_notes.pdf)
-
+👉 [View Shell Scripting Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/linux_shell_git_study_notes.pdf)
 ---
 ---
 **Git & Version Control**
@@ -32,8 +32,7 @@ Here are all the topics included in your notes:
 - Git log, history, undoing mistakes
 - Azure Repos & branch policies
 
-👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/linux_shell_git_study_notes.pdf)
-
+👉 [View Git & Version Control Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/linux_shell_git_study_notes.pdf)
 ---
 ---
 **Networking**
@@ -47,10 +46,9 @@ Here are all the topics included in your notes:
 - Load Balancer vs Application Gateway
 - VNet Peering, Private Endpoints, Azure Bastion
 
-👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/networking_study_notes.pdf)
-
+👉 [View **Networking** Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/networking_study_notes.pdf)
 ---
-
+---
 **CI/CD**
 - Pipeline stages (build, test, scan, package, deploy)
 - Jenkins architecture & Jenkinsfile
@@ -59,63 +57,20 @@ Here are all the topics included in your notes:
 - Pipeline templates & reuse
 - Approval gates & branch controls
 
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
+👉 [View **CI/CD** Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 ---
+**Azure Services**
+- Compute (VMs, App Service, Functions, ACI, VMSS)
+- Storage (Blob, Files, Disk, Queue, Table)
+- Databases (SQL, PostgreSQL, MySQL, Cosmos DB, Redis)
+- Identity (Azure AD / Entra ID, Managed Identity, RBAC)
+- Azure Key Vault
+- Azure Policy & Defender for Cloud
 
-**Docker**
-- Image & container concepts
-- Docker vs Virtual Machine
-- Dockerfile writing & layer caching
-- Docker commands (build, run, exec, logs)
-- Docker Volumes
-- Docker Networking
-- Docker Compose
-- Azure Container Registry (ACR)
-
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
+👉 [View Azure Services Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 ---
-
-**Kubernetes**
-- Architecture (control plane & worker nodes)
-- All K8s objects (Pod, Deployment, Service, ConfigMap, Secret, Ingress, PV, PVC, DaemonSet, StatefulSet, Job, CronJob)
-- kubectl commands
-- Writing YAML manifests
-- Service types (ClusterIP, NodePort, LoadBalancer)
-- Ingress routing
-- Rolling updates & rollbacks
-- Horizontal Pod Autoscaler (HPA)
-- Cluster Autoscaler
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
----
----
-
-**AKS (Azure Kubernetes Service)**
-- Cluster creation (az aks commands)
-- Node pools
-- Autoscaling
-- ACR integration
-- Networking (kubenet vs Azure CNI)
-- Application Gateway Ingress Controller
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
----
----
-
-**Helm**
-- Chart structure
-- values.yaml
-- Install, upgrade, rollback commands
-- Templating
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
----
----
-
 **Azure DevOps**
 - Azure Boards (Epics, Stories, Tasks, Bugs)
 - Azure Repos & branch policies
@@ -126,11 +81,57 @@ Here are all the topics included in your notes:
 - Azure Test Plans
 - Pipeline templates
 - Variable groups & Key Vault linking
-    👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 
+👉 [View Azure DevOps Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 ---
+**Docker**
+- Image & container concepts
+- Docker vs Virtual Machine
+- Dockerfile writing & layer caching
+- Docker commands (build, run, exec, logs)
+- Docker Volumes
+- Docker Networking
+- Docker Compose
+- Azure Container Registry (ACR)
 
+👉 [View Docker Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+---
+**Kubernetes**
+- Architecture (control plane & worker nodes)
+- All K8s objects (Pod, Deployment, Service, ConfigMap, Secret, Ingress, PV, PVC, DaemonSet, StatefulSet, Job, CronJob)
+- kubectl commands
+- Writing YAML manifests
+- Service types (ClusterIP, NodePort, LoadBalancer)
+- Ingress routing
+- Rolling updates & rollbacks
+- Horizontal Pod Autoscaler (HPA)
+- Cluster Autoscaler
+👉 [View Kubernetes Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+---
+**AKS (Azure Kubernetes Service)**
+- Cluster creation (az aks commands)
+- Node pools
+- Autoscaling
+- ACR integration
+- Networking (kubenet vs Azure CNI)
+- Application Gateway Ingress Controller
+  
+👉 [View AKS (Azure Kubernetes Service) Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+---
+**Helm**
+- Chart structure
+- values.yaml
+- Install, upgrade, rollback commands
+- Templating
+
+👉 [View Helm Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+
+---
 **Terraform**
 - What is IaC
 - Core commands (init, plan, apply, destroy)
@@ -139,11 +140,10 @@ Here are all the topics included in your notes:
 - Remote state (Azure Blob Storage)
 - Full AKS + VNet example
 
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
----
+👉 [View Terraform Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 
+---
 **Ansible**
 - Inventory file
 - Playbooks & tasks
@@ -153,23 +153,10 @@ Here are all the topics included in your notes:
 - Ansible Vault (secrets encryption)
 - Ad-hoc commands
 
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
----
+👉 [View Ansible Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 
-**Azure Services**
-- Compute (VMs, App Service, Functions, ACI, VMSS)
-- Storage (Blob, Files, Disk, Queue, Table)
-- Databases (SQL, PostgreSQL, MySQL, Cosmos DB, Redis)
-- Identity (Azure AD / Entra ID, Managed Identity, RBAC)
-- Azure Key Vault
-- Azure Policy & Defender for Cloud
-  👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
 ---
----
-
 **Monitoring**
 - Prometheus (scraping, exporters, PromQL)
 - Alertmanager
@@ -180,22 +167,19 @@ Here are all the topics included in your notes:
 - KQL (Kusto Query Language)
 - Alerts & Action Groups
 
-    👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
-
+👉 [View Monitoring Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 ---
-
 **Logging**
 - ELK Stack (Elasticsearch, Logstash, Kibana)
 - Filebeat & Fluent Bit
 - Kubernetes log collection architecture
 - Structured JSON logging
 - Azure Log Analytics
-    👉 [View Linux Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 
+👉 [View Logging Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 ---
-
 **Security / DevSecOps**
 - SAST & DAST
 - Container image scanning (Trivy)
