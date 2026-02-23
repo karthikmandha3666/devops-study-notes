@@ -188,12 +188,19 @@ Here are all the topics included in your notes:
 - Secrets detection
 - Azure Key Vault integration
 
+👉 [View Logging Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+---
+
 **Deployment Strategies**
 - Rolling deployment
 - Blue-Green deployment
 - Canary deployment
 - Feature flags
 - Recreate deployment
+👉 [View Logging Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+---
 
 **SRE (Site Reliability Engineering)**
 - SLI, SLO, SLA definitions
@@ -203,12 +210,18 @@ Here are all the topics included in your notes:
 - Blameless post-mortems
 - On-call practices
 
+👉 [View Logging Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+---
 **GitOps**
 - GitOps principles
 - ArgoCD setup & sync policy
 - Drift reconciliation
 - Application manifest YAML
 
+👉 [View Logging Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
+---
+---
 **Troubleshooting**
 - Kubernetes pod statuses (Pending, CrashLoopBackOff, OOMKilled, ImagePullBackOff)
 - Pipeline failure debugging
