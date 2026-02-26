@@ -108,6 +108,7 @@ Here are all the topics included in your notes:
 - Rolling updates & rollbacks
 - Horizontal Pod Autoscaler (HPA)
 - Cluster Autoscaler
+
 👉 [View Kubernetes Study Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/)
 ---
 ---
