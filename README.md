@@ -49,6 +49,7 @@ Here are all the topics included in your notes:
 
 👉 [View **Networking** Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/networking_study_notes.pdf)
 ---
+
 ---
 **CI/CD**
 - Pipeline stages (build, test, scan, package, deploy)
