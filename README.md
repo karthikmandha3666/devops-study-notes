@@ -25,6 +25,7 @@ Here are all the topics included in your notes:
 
 👉 [View Shell Scripting Notes (PDF)](https://karthikmandha3666.github.io/devops-study-notes/linux_shell_git_study_notes.pdf)
 ---
+
 ---
 **Git & Version Control**
 - Core Git workflow
